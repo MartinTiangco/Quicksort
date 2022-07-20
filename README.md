@@ -1,1 +1,2 @@
-# Quicksort
+# About this assignment
+This is an assignment for SOFTENG 370 - Operating Systems. It instructs us to implement and parallelise the popular sorting algorithm Quicksort using a variety of methods involving threads and/or processes. The language used is C in a Unix based operating system environment, using WSL2 on a Windows laptop.  
